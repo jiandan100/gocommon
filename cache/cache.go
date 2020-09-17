@@ -1,7 +1,7 @@
 package cache
 
 import (
-	"gocommon/log"
+	"github.com/jiandan100/gocommon/log"
 	"gopkg.in/yaml.v2"
 	"io/ioutil"
 )

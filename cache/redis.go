@@ -1,7 +1,7 @@
 package cache
 
 import (
-	"gocommon/log"
+	"github.com/jiandan100/gocommon/log"
 	"github.com/go-redis/redis"
 	"net"
 	"time"

@@ -1,7 +1,7 @@
 package mqueue
 
 import (
-	"gocommon/log"
+	"github.com/jiandan100/gocommon/log"
 	uuid "github.com/satori/go.uuid"
 	"github.com/streadway/amqp"
 	"sync"

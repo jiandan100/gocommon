@@ -1,7 +1,7 @@
 package db
 
 import (
-	"gocommon/log"
+	"github.com/jiandan100/gocommon/log"
 	"fmt"
 	_ "github.com/go-sql-driver/mysql"
 	"gopkg.in/yaml.v2"

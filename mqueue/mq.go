@@ -10,8 +10,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	"gocommon/log"
-	"gocommon/mqueue/aliutils"
+	"github.com/jiandan100/gocommon/log"
+	"github.com/jiandan100/gocommon/mqueue/aliutils"
 )
 
 const (
