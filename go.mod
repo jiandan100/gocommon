@@ -1,4 +1,4 @@
-module gocommon
+module github.com/jiandan100/gocommon
 
 go 1.14
 
